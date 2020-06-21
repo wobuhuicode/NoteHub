@@ -49,7 +49,7 @@ INSERTION-SORT(A) {
 for j = 2 to A.length
 
 |行|代码|代价|次数
-|:-:|:---|--|:--:|
-|1|`for j = 2 to A.length`|![](http://latex.codecogs.com/gif.latex?\c_2)|n|
+|:-:|:---|:--:|:--:|
+|1|`for j = 2 to A.length`|![](http://latex.codecogs.com/gif.latex?c_2)|n|
 ## 2.2 分析算法
 假定一种通用的单处理器计算模型--随机访问机（RAM）
