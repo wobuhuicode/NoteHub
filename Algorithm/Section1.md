@@ -47,6 +47,8 @@ INSERTION-SORT(A) {
 
 for j = 2 to A.length
 
+![test](https://github.com/wobuhuicode/NoteHub/blob/master/Algorithm/image/%E4%B8%80%E5%AD%A3%E5%BA%A6.png?raw=true)
+
 |行|代码|代价|次数
 |:-:|:---|:--:|:--:|
 |1|`for j = 2 to A.length`|![](http://latex.codecogs.com/gif.latex?c_1)|*n*|
