@@ -45,7 +45,6 @@ INSERTION-SORT(A) {
 
 先给出每条语句的执行时间和执行次数
 
-
 for j = 2 to A.length
 
 |行|代码|代价|次数
